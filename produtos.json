@@ -1,0 +1,99 @@
+{
+    "categorias": [
+      {
+        "id": "lanches",
+        "nome": "Lanches",
+        "icone": "https://via.placeholder.com/80",
+        "itens": [
+          {
+            "id": 1,
+            "nome": "Lanche Natural",
+            "descricao": "Alface, tomate, cenoura e frango desfiado",
+            "preco": 12.00,
+            "imagem": "https://via.placeholder.com/128"
+          }
+        ]
+      },
+      {
+        "id": "salgados",
+        "nome": "Salgados",
+        "icone": "https://via.placeholder.com/80",
+        "itens": [
+          {
+            "id": 2,
+            "nome": "Coxinha",
+            "descricao": "Frango temperado e massa crocante",
+            "preco": 6.00,
+            "imagem": "https://via.placeholder.com/128"
+          }
+        ]
+      },
+      {
+        "id": "trufas",
+        "nome": "Trufas",
+        "icone": "https://via.placeholder.com/80",
+        "itens": [
+          {
+            "id": 3,
+            "nome": "Trufa de Chocolate",
+            "descricao": "Chocolate ao leite com recheio cremoso",
+            "preco": 3.00,
+            "imagem": "https://via.placeholder.com/128"
+          }
+        ]
+      },
+      {
+        "id": "gelinho",
+        "nome": "Gelinho",
+        "icone": "https://via.placeholder.com/80",
+        "itens": [
+          {
+            "id": 4,
+            "nome": "Gelinho de Uva",
+            "descricao": "Sabor natural e refrescante",
+            "preco": 1.50,
+            "imagem": "https://via.placeholder.com/128"
+          }
+        ]
+      },
+      {
+        "id": "bebidas",
+        "nome": "Bebidas",
+        "icone": "https://via.placeholder.com/80",
+        "itens": [
+          {
+            "id": 5,
+            "nome": "Suco Natural",
+            "descricao": "Sabores variados: laranja, maracujá, acerola",
+            "preco": 5.00,
+            "imagem": "https://via.placeholder.com/128"
+          }
+        ]
+      },
+      {
+        "id": "bolos",
+        "nome": "Bolos",
+        "icone": "https://via.placeholder.com/80",
+        "itens": [
+          {
+            "id": 6,
+            "nome": "Bolo de Chocolate",
+            "descricao": "Com cobertura cremosa e granulado",
+            "preco": 7.00,
+            "imagem": "https://via.placeholder.com/128"
+          }
+          ,
+          {
+            "id": 6,
+            "nome": "Bolo de Cenoura",
+            "descricao": "Com cobertura cremosa e granulado",
+            "preco": 7.00,
+            "imagem": "https://via.placeholder.com/128"
+          }
+
+          
+        ]
+      }
+    ]
+  }
+  
