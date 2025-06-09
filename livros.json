@@ -1,0 +1,64 @@
+{
+  "categorias": [
+    {
+      "nome": "Ficção Científica",
+      "livros": [
+        { "titulo": "Duna", "autor": "Frank Herbert", "ano": 1965 },
+        { "titulo": "Neuromancer", "autor": "William Gibson", "ano": 1984 },
+        { "titulo": "Fundação", "autor": "Isaac Asimov", "ano": 1951 },
+        { "titulo": "O Fim da Infância", "autor": "Arthur C. Clarke", "ano": 1953 },
+        { "titulo": "Snow Crash", "autor": "Neal Stephenson", "ano": 1992 }
+      ]
+    },
+    {
+      "nome": "Romance",
+      "livros": [
+        { "titulo": "Orgulho e Preconceito", "autor": "Jane Austen", "ano": 1813 },
+        { "titulo": "Dom Casmurro", "autor": "Machado de Assis", "ano": 1899 },
+        { "titulo": "O Morro dos Ventos Uivantes", "autor": "Emily Brontë", "ano": 1847 },
+        { "titulo": "Cem Anos de Solidão", "autor": "Gabriel García Márquez", "ano": 1967 },
+        { "titulo": "Anna Kariênina", "autor": "Liev Tolstói", "ano": 1877 }
+      ]
+    },
+    {
+      "nome": "Fantasia",
+      "livros": [
+        { "titulo": "O Senhor dos Anéis", "autor": "J.R.R. Tolkien", "ano": 1954 },
+        { "titulo": "Harry Potter e a Pedra Filosofal", "autor": "J.K. Rowling", "ano": 1997 },
+        { "titulo": "O Nome do Vento", "autor": "Patrick Rothfuss", "ano": 2007 },
+        { "titulo": "As Crônicas de Nárnia", "autor": "C.S. Lewis", "ano": 1950 },
+        { "titulo": "Mistborn: O Império Final", "autor": "Brandon Sanderson", "ano": 2006 }
+      ]
+    },
+    {
+      "nome": "História",
+      "livros": [
+        { "titulo": "Sapiens: Uma Breve História da Humanidade", "autor": "Yuval Noah Harari", "ano": 2011 },
+        { "titulo": "Guns, Germs, and Steel", "autor": "Jared Diamond", "ano": 1997 },
+        { "titulo": "A História Secreta", "autor": "Donna Tartt", "ano": 1992 },
+        { "titulo": "O Diário de Anne Frank", "autor": "Anne Frank", "ano": 1947 },
+        { "titulo": "A Era dos Extremos", "autor": "Eric Hobsbawm", "ano": 1994 }
+      ]
+    },
+    {
+      "nome": "Autoajuda",
+      "livros": [
+        { "titulo": "O Poder do Hábito", "autor": "Charles Duhigg", "ano": 2012 },
+        { "titulo": "Como Fazer Amigos e Influenciar Pessoas", "autor": "Dale Carnegie", "ano": 1936 },
+        { "titulo": "A Sutil Arte de Ligar o Foda-se", "autor": "Mark Manson", "ano": 2016 },
+        { "titulo": "Mindset", "autor": "Carol Dweck", "ano": 2006 },
+        { "titulo": "Os 7 Hábitos das Pessoas Altamente Eficazes", "autor": "Stephen Covey", "ano": 1989 }
+      ]
+    },
+    {
+      "nome": "Técnicos / Programação",
+      "livros": [
+        { "titulo": "Clean Code", "autor": "Robert C. Martin", "ano": 2008 },
+        { "titulo": "The Pragmatic Programmer", "autor": "Andrew Hunt e David Thomas", "ano": 1999 },
+        { "titulo": "Design Patterns", "autor": "Erich Gamma et al.", "ano": 1994 },
+        { "titulo": "Introduction to Algorithms", "autor": "Cormen, Leiserson, Rivest e Stein", "ano": 1990 },
+        { "titulo": "Effective Java", "autor": "Joshua Bloch", "ano": 2001 }
+      ]
+    }
+  ]
+}
