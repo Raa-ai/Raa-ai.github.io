@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "nome_medicamento": "Amoxicilina",
+        "dosagem_valor": "500.000",
+        "dosagem_unidade": "mg",
+        "frequencia_por_dia": 3,
+        "horarios_personalizados": "[\"08:00\", \"14:00\", \"20:00\"]",
+        "data_inicio": "2025-08-18",
+        "data_fim": "2025-08-25",
+        "foto_path": "\/imagens\/amoxicilina.jpg",
+        "observacoes": "Tomar após as refeições",
+        "ativo": 1,
+        "criado_em": "2025-08-18 17:47:27"
+    },
+    {
+        "id": 2,
+        "nome_medicamento": "Paracetamol",
+        "dosagem_valor": "500.000",
+        "dosagem_unidade": "mg",
+        "frequencia_por_dia": 3,
+        "horarios_personalizados": "[\"08:00\", \"14:00\", \"20:00\"]",
+        "data_inicio": "2025-08-25",
+        "data_fim": "2025-08-30",
+        "foto_path": "fotos\/paracetamol.png",
+        "observacoes": "Tomar após as refeições",
+        "ativo": 1,
+        "criado_em": "2025-08-25 17:56:43"
+    }
+]
